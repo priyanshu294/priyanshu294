@@ -1,4 +1,4 @@
-### Hi, I am Priyanshu kumar
+### Hi, I am PRIYANSHU KUMAR
 
 I’m a Java Backend Developer with 3 years of experience, specializing in Spring Boot, microservices, and RESTful APIs. I hold a B.Tech from Gandhi Institute for Education and Technology with an 8.2 CGPA and have a 5-star Java rating on HackerRank. My passion lies in building scalable backend systems and writing clean, efficient code.
 
